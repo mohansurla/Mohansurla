@@ -1,4 +1,4 @@
-# 💫 About Me :
+# 💫 About Me 
 🔭 I’m currently working on building full-stack MERN applications and honing my skills in React.js and Node.js.<br>👯 I’m looking to collaborate on open-source projects and web development projects.<br>🤝 I’m seeking help exploring advanced backend architectures and performance optimization techniques.<br>🌱 I’m learning advanced JavaScript, MongoDB optimizations, and system design concepts.<br>💬 Ask me about MERN stack development, JavaScript, and my journey in web development.<br>⚡ Fun fact: When I’m not coding, you’ll probably find me exploring tech innovations, playing cricket, or brainstorming creative ideas!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohansurla/) 
